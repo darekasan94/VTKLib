@@ -1,2 +1,2 @@
 # VTKLib
-VTK interactive library to visualize 3D surfaces
+VTK based interactive library to visualize 3D surfaces.
